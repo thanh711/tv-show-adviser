@@ -66,7 +66,7 @@ export function App() {
       <div className={s.header}>
         <div className="row">
           <div className="col-4">
-            <Logo img={logoImg} title={"Watowatch"} subtitle={"Find a show you may like"} />
+            <Logo img={logoImg} title={"Wato34"} subtitle={"Find a show you may like"} />
           </div>
           <div className="col-md-12 col-lg-4">
             <SearchBar onSubmit={fetchByTitle} />
